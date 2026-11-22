@@ -117,8 +117,3 @@ These are not pipeline stages. They were used to inspect and validate the data:
 
 Python, pandas, SQLite, matplotlib, pytest
 
-## Author
-
-Abhishek, B.Tech Computer Science
-
-Built with AI-assisted coding tools. Each stage was run, tested and verified manually.
